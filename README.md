@@ -9,11 +9,12 @@ Available for download at:
 https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
 
 # How to run
-At working directory create one directory named input and place all data files in there. Then run the three scripts in sequence:
+At working directory create one directory named input and place all data files in there. 
+Then run the three scripts in sequence:
 * age_gender_bkts_feature_extraction
 * session_feature_extraction
 * main_pred
 
-The output file will be created under output directory
+The submission file will be created under output directory
 
 
