@@ -8,6 +8,8 @@ In this recruiting competition, Airbnb challenges you to predict in which countr
 Available for download at:
 https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
 
+Competition rules do not allow sharing datasets
+
 # How to run
 At working directory create one directory named input and place all data files in there. 
 Then run the three scripts in sequence:
