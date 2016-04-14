@@ -1,8 +1,9 @@
 # Airbnb : Where will a new guest book their first travel experience?
-Airbnb competition at Kaggle. 
+Airbnb competition at Kaggle. The scripts give a NDCG score of about 0.885, good for #149th/1463 in private LB.
 
 # What was the challenge?
 In this recruiting competition, Airbnb challenges you to predict in which country a new user will make his or her first booking. 
+A simple write-up is provided in Portuguese.
 
 # Data provided
 Available for download at:
@@ -18,5 +19,6 @@ Then run the three scripts in sequence:
 * main_pred.ipynb
 
 The submission file will be created under output directory
+
 
 
