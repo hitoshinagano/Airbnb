@@ -1,6 +1,6 @@
 # Airbnb : Where will a new guest book their first travel experience?
 Airbnb competition at Kaggle. The scripts give a NDCG score of about 0.885, good for #149th/1463 in private LB.
-Participated with nickname HN Musac.
+Participated with nickname "HN Musac".
 
 # What was the challenge?
 In this recruiting competition, Airbnb challenges you to predict in which country a new user will make his or her first booking. 
