@@ -1,5 +1,5 @@
 # Airbnb : Where will a new guest book their first travel experience?
-Airbnb competition at Kaggle. The scripts give a NDCG score of about 0.885, good for #149th/1463 in private LB.
+Airbnb competition at Kaggle. The scripts give a NDCG score of about 0.885, good for #149th/1463 in private LB.<br>
 I participated with nickname "HN Musac".
 
 # What was the challenge?
